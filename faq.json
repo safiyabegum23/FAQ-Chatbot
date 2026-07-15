@@ -1,0 +1,28 @@
+{
+    "questions": [
+        "What are college timings?",
+        "How to apply for admission?",
+        "What courses are available?",
+        "What is the fee structure?",
+        "Where is the college located?",
+        "How can I contact the college?",
+        "Is hostel facility available?",
+        "What is the eligibility for admission?",
+        "Does college provide placements?",
+        "What companies visit for placements?"
+    ],
+
+    "answers": [
+        "College timings are 9 AM to 4 PM.",
+        "You can apply through the admission portal.",
+        "CSE, AIML, ECE and Mechanical courses are available.",
+        "Fee details depend on the selected course.",
+        "The college is located in Hyderabad, Telangana.",
+        "You can contact the college office for details.",
+        "Yes, hostel facilities are available for students.",
+        "Students must complete the required eligibility criteria for admission.",
+        "Yes, the college provides placement support.",
+        "Many IT companies visit colleges for recruitment."
+    ]
+}
+    
